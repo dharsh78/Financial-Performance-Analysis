@@ -7,7 +7,6 @@ The objective is to identify profitability drivers, loss-making areas, and strat
 ---
 
 ## 🛠 Tools Used
-- Python (Pandas, NumPy)
 - Microsoft Excel
 - Tableau
 - Data Cleaning & Exploratory Data Analysis (EDA)
